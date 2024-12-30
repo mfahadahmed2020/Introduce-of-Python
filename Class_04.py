@@ -1,5 +1,6 @@
-# Ye Sir ny Revision or baki krwaya tha:
-# Isme sy kuch galat lage to bata dena.
+# Python Codes_Class Assignment
+
+# GIAIC Agentic AI 1
 
 # 1. Python Install
 # 2. CMD | python --version | python | print("Hello, World!")
